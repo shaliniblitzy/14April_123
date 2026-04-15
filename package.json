@@ -1,0 +1,12 @@
+{
+  "name": "14april_123",
+  "version": "1.0.0",
+  "description": "A Node.js tutorial server with Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
