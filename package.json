@@ -1,0 +1,13 @@
+{
+  "name": "14april_123",
+  "version": "1.0.0",
+  "description": "A minimal Node.js HTTP server built with Express.js exposing two GET endpoints (Hello world and Good evening).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
